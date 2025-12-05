@@ -13,16 +13,16 @@ I enjoy building scalable systems, optimizing cloud workloads, and designing pro
 
 ## 🚀 Skills
 ### **Cloud & DevOps**
-- GCP (Cloud Run, BigQuery, Composer, Cloud Build)
+- GCP (Cloud Run, BigQuery, Composer, Cloud Build, GCS, Cloud Function)
 - Terraform, Docker, CI/CD, IaC, Monitoring
 
 ### **Backend & Full-Stack**
-- Node.js, Express, REST APIs  
+- Node.js, Express, REST APIs , Python, Flask
 - React, Angular, TypeScript  
 - MongoDB, MySQL  
 
 ### **Other Tools**
-- Git, GitHub, Linux, Postman
+- Git, GitHub, Linux, Postman, Jira, Confluence
 
 ---
 
