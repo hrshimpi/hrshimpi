@@ -1,5 +1,5 @@
 <h1 align="center">Himanshu Shimpi</h1>
-<h4 align="center">Platform Engineer • Full-Stack Developer • Cloud Architect in Training</h4>
+<h4 align="center">Platform Engineer • Full-Stack Developer </h4>
 
 ---
 
